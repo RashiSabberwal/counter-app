@@ -1,0 +1,47 @@
+.count {
+    display: flex;
+    justify-content: center;
+    margin-top: 16rem;    
+}
+
+.score {
+    font-weight: bold;
+    /* color: red; */
+    font-size: 3rem;
+    text-align: center;
+    width: 70px;
+    border: 1px solid #0000ff;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 15px;
+    margin: 20px;
+    margin-top: 7rem;
+}
+.btn {
+    font-size: 2rem; 
+    text-align: center;
+    margin-top: 20rem;
+    width: 50px;
+    height: 70px;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    margin-top: 8rem;
+    transition-duration: 0.4s;
+  }
+  
+  .btn:hover {
+      cursor: pointer;
+    background-color: #0000ff; 
+    color: white;
+  }
+
+  .indiv {
+      display: flex;
+      align-content: space-between;
+  }
+
+ 
+  
+  
+
